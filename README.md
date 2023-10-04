@@ -10,6 +10,10 @@ Refactored code for a marketing agency that follows accessiblity and is optimize
 
 > * Added alt text for accessiblity.
 
+## Page Link
+
+https://ae-andre.github.io/andre-css-demo-site/
+
 ## Mock up
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
